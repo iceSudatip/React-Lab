@@ -1,5 +1,15 @@
 body {
+  background-image: url(https://scontent-fbkk5-7.us-fbcdn.net/v1/t.1-48/1426l78O9684I4108ZPH0J4S8_842023153_K1DlXQOI5DHP/dskvvc.qpjhg.xmwo/p/data/298/298515-572f6fc7a6074.jpg);
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.card{
+  text-align: center;
+  color: cyan;
 }
