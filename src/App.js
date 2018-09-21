@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import WordCard from './WordCard';
 
-const word = "hello";
+const word = "swimming";
 class App extends Component{
   render(){
     return(
